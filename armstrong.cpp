@@ -28,11 +28,11 @@
 
         if (sum == num)
 
-            cout << "\n" << num << " is an Armstrong number.";
+            cout<< num << " is an Armstrong number.";
 
         else
 
-            cout << "\n" << num << " is not an Armstrong number.";
+            cout<< num << " is not an Armstrong number.";
 
         return 0;
 

@@ -1,9 +1,6 @@
 #include<iostream>
 
 using namespace std;
-
-
-
 int main()
 
 {
@@ -12,8 +9,7 @@ int main()
 
     long long val = 1;
 
-
-
+    cout<<"Enter a number" ;
     cin >> factorial;
 
     cout << endl;
